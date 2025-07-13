@@ -1,5 +1,5 @@
 # car-safety
-> A simple linear regression model for predicting student performace based on multiple variables.
+> Random Forest Classifier model for evaluating car safety 
 
 This project explores how well we can predict a car safety using related attributes. We build a simple Random Forest Classifier model and take a look at how accurately it can forecast our target feature.
 
