@@ -12,7 +12,7 @@ The goal is to see how accurate our model’s predictions come to the real safet
 ## 📊 Dataset
 
 - **Source**: [UCI Machine Learning Repository – Car Evaluation Data Set](https://archive.ics.uci.edu/dataset/19/car+evaluation)  
-- **File**: `car'data.csv`   
+- **File**: `car-data.csv`   
 - **Records**: 1728 cars  
 - **Columns**: 7 total
 
